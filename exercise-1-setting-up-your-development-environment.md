@@ -8,15 +8,11 @@ This lab will require access to an Azure subscription. You can use an existing i
 * Azure App Registration
 * Azure Key Vault
 
-> The Bot will utilize the Graph Communications API and requires Tenant Admin consent.
+{% hint style="info" %}
+The Bot will utilize the Graph Communications API and requires Tenant Admin consent.
+{% endhint %}
 
-Connect to your virtual machine sign on as **labadmin**  and use password **P@ssw0rd.** Once connected we need to install the following prerequisites:
-
-* [Azure Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started)
-* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
-* [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/install-azurerm-ps?view=azurermps-6.8.1)
-* [PostMan](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
-* [ngrok](https://ngrok.com/)
+Connect to your lab virtual machine here: [https://labondemand.com/LabProfile/x](https://labondemand.com/LabProfile/55694)xx sign on as **xxx** and use password **xxx.** 
 
 ### Deploy Cloud App
 
