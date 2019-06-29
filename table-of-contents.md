@@ -8,7 +8,7 @@
 
 [Exercise 3: Clone the Source Code in Visual Studio](exercise-3-clone-the-source-code-in-visual-studio.md)
 
-[Exercise 4: Publish Bot application to Azure](exercise-4.md)
+[Exercise 4: Publish Bot application to Azure](exercise-4-publish-bot-application-to-azure.md)
 
 [Exercise 5: Test HueBot Using Microsoft Teams](exercise-5-test-huebot-using-microsoft-teams.md)
 
