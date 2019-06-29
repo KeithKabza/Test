@@ -2,7 +2,7 @@
 
 During this lab, you will learn how to build and deploy a Microsoft Teams media bot in Office 365 that will you allow your Bot to join a Teams meeting and gain access to the audio and video streams in the meeting. During the lab you will use the Microsoft Teams clients to join meetings and interact with the media bot.  The lab is divided into several exercises that will help you understand how to intelligent media bots that can perform advanced tasks using cognitive services. 
 
-Estimated time to complete: _**50 minutes**_
+Estimated time to complete: _**40 minutes**_
 
 ### Before you begin
 
