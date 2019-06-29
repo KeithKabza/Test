@@ -8,8 +8,7 @@
 * [Exercise 4: Publish Bot application to Azure](exercise-4.md)
 * [Exercise 5: Test HueBot Using Microsoft Teams](exercise-5-test-huebot-using-microsoft-teams.md)
 * [Exercise 6: Configure Azure Unified Speech API](exercise-6-configure-azure-unified-speech-api.md)
-* [Exercise 7: Modify Speech Recognition and Publish in Debug mode.](exercise-6-modify-speech-recognition-and-publish-in-debug-mode..md)
-* [Exercise 8: Add a new Color option and debug locally](exercise-7-test-new-hubbot-changes-with-remote-debugging..md)
+* [Exercise 7: Add a new Color option and debug locally](exercise-7-add-a-new-color-option-and-debug-locally.md)
 * [Conclusion](conclusion.md)
 * [LAB FIXES](lab-fixes.md)
 
