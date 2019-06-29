@@ -12,15 +12,15 @@ To complete the exercises in this lab, you will need a an O365 Tenant with an en
 
 Follow the prompts to create a new subscription and complete the required forms. 
 
-![New Office 365 Developer Subscription](.gitbook/assets/image%20%2810%29.png)
+![New Office 365 Developer Subscription](.gitbook/assets/image%20%2819%29.png)
 
 Provide your phone number and complete the process by entering the 5 digit code you received via text message. Once complete your subscription will be created!
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%281%29.png)
 
 You should be able to logon to your subscription now. Now you need to assign some licenses and create a few test users. Using the Office 365 Admin center create at least two test users. Assign one of the provided E3 Licenses to each of your users. 
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2827%29.png)
 
 ### Scenario
 

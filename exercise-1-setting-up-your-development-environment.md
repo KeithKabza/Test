@@ -22,11 +22,11 @@ Connect to your virtual machine sign on as **labadmin**  and use password **P@ss
 
 Logon to your Azure subscription and click create _**Create a Resource**_ search for "Cloud Service"  and click create.
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 Enter **huebotlabxxx** for the dns name
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 ### Setup SSL Certificate
 
@@ -36,13 +36,13 @@ Navigate to the newly deployed cloud services in Azure portal and select certifi
 
  
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 Browse for the certificate downloaded in the previous step and provide the certificate password: **summerready**
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 Refresh the certificate blade and you should see the imported wildcard certificate
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
