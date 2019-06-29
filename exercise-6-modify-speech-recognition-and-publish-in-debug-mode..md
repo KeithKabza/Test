@@ -1,2 +1,2 @@
-# Exercise 6: Modify Speech Recognition and Publish in Debug mode.
+# Exercise 7: Modify Speech Recognition and Publish in Debug mode.
 

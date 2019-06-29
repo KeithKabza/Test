@@ -22,11 +22,11 @@ Connect to your virtual machine sign on as **labadmin**  and use password **P@ss
 
 Logon to your Azure subscription and click create _**Create a Resource**_ search for "Cloud Service"  and click create.
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2893%29.png)
 
 Enter **huebotlabxxx** for the dns name
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2879%29.png)
 
 ### Setup SSL Certificate
 
@@ -36,13 +36,32 @@ Navigate to the newly deployed cloud services in Azure portal and select certifi
 
  
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2888%29.png)
 
 Browse for the certificate downloaded in the previous step and provide the certificate password: **summerready**
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 Refresh the certificate blade and you should see the imported wildcard certificate
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
+
+Save the certificate thumbprint it will be needed in Exercise 3. The lab uses a wildcard certificate for the domain teamsbots.com   
+The Thumbprint is: **1E872674EDE0781ECE8C209C2D9EEC5822D04B77**
+
+![](.gitbook/assets/image%20%2820%29.png)
+
+### **Deploy a Classic Cloud Storage Account**
+
+From Azure portal select Create Resource and select Storage Account
+
+![](.gitbook/assets/image%20%2873%29.png)
+
+From the create storage account blade click the link called "**Choose classic deployment model**"
+
+![](.gitbook/assets/image%20%2825%29.png)
+
+Now update the form with your resource group, use your huebotlabxxx value for the storage name and change the replication to Locally Redundant Storage. Then click Review + Create and click the Create button on the preceding page.
+
+![](.gitbook/assets/image%20%2886%29.png)
 
