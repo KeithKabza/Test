@@ -2,21 +2,21 @@
 
 #### [Developing a Teams Media Bot](./)
 
-Exercise 1: Setting up your development environment
+[Exercise 1: Setting up your development environment](table-of-contents.md#exercise-1-setting-up-your-development-environment)
 
-Exercise 2: Registering your Media Bot
+[Exercise 2: Registering your Media Bot](table-of-contents.md#exercise-2-registering-your-media-bot)
 
-Exercise 3: Clone the Source Code in Visual Studio
+[Exercise 3: Clone the Source Code in Visual Studio](table-of-contents.md#exercise-3-clone-the-source-code-in-visual-studio)
 
-Exercise 4: Publish Bot application to Azure
+[Exercise 4: Publish Bot application to Azure](table-of-contents.md#exercise-4-publish-bot-application-to-azure)
 
-Exercise 5: Test HueBot Using Microsoft Teams
+[Exercise 5: Test HueBot Using Microsoft Teams](table-of-contents.md#exercise-5-test-huebot-using-microsoft-teams)
 
-Exercise 6: Configure Azure Unified Speech API
+[Exercise 6: Configure Azure Unified Speech API](table-of-contents.md#exercise-6-configure-azure-unified-speech-api)
 
-Exercise 7: Add a new Color option and debug locally
+[Exercise 7: Add a new Color option and debug locally](table-of-contents.md#exercise-7-add-a-new-color-option-and-debug-locally)
 
-Conclusion
+[Conclusion](table-of-contents.md#conclusion)
 
 
 
