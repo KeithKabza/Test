@@ -6,3 +6,5 @@
   * DELETE the Certificate settings in the  ServiceConfiguration.Local.cscfg They caused a problem for me when trying to publish. They are not needed for the lab.
 * .NET 4.6.2 is not installed on the LearnOnDemand Virtual Machine Image is there anyway to get the image updated to save some time?
 
+
+
