@@ -4,21 +4,19 @@
 
 Exercise 1: Setting up your development environment
 
-[Exercise 2: Registering your Media Bot]()
+Exercise 2: Registering your Media Bot
 
-[Exercise 3: Clone the Source Code in Visual Studio]()
+Exercise 3: Clone the Source Code in Visual Studio
 
-[Exercise 4: Publish Bot application to Azure]()
+Exercise 4: Publish Bot application to Azure
 
-[Exercise 5: Test HueBot Using Microsoft Teams]()
+Exercise 5: Test HueBot Using Microsoft Teams
 
-[Exercise 6: Configure Azure Unified Speech API]()
+Exercise 6: Configure Azure Unified Speech API
 
-[Exercise 7: Modify Speech Recognition and Publish in Debug mode.]()
+Exercise 7: Add a new Color option and debug locally
 
-[Exercise 8: Add a new Color option and debug locally]()
-
-[Conclusion]()
+Conclusion
 
 
 
